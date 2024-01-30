@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.8.0"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "name": "29janjekin",
+  "version": "1.0.0",
+  "description": "using jenkins creating test cases in cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress run --headed --spec D:\\Cypress\\cypress\\e2e\\29janjekin\\TC001.cy.js",
+    "runtest": "npm run test"
+  },
+  "author": "Rushikesh",
+  "license": "ISC"
+}

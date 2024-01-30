@@ -1,0 +1,6 @@
+{
+    "FundTransferAmount" : "100",
+    "fromAccountId" :"14121",
+    "toAccountId":"13788",
+    "succesfullmsg":"$100.00 has been transferred from account"
+    }
